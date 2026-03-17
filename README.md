@@ -61,6 +61,6 @@ Bộ não điều khiển chuyển động chính xác:
 3.  **Kiểm tra Encoder:** Đảm bảo hướng xoay của bánh xe khớp với chiều tăng/giảm của xung Encoder.
 
 ---
-**Project:** EMILY AI BOT  
-**Author:** [Tên của bạn] - Mechatronics UET  
+**Project:** ODOMETRY ROBOT MOTION  
+**Author:** [KIEN_BUI] - Mechatronics UET  
 **Date:** March 2026
