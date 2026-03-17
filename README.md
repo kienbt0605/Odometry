@@ -1,4 +1,4 @@
-# 🤖 EMILY AI BOT - CONTROL SYSTEM DOCUMENTATION
+# 🤖 ODOMETRY ROBOT MOTION - CONTROL SYSTEM DOCUMENTATION
 
 Hệ thống điều khiển robot tự hành tích hợp động học **Odometry** và truyền thông không dây **ESP-NOW**. Hệ thống được thiết kế theo kiến trúc phân tầng để tối ưu hóa hiệu năng xử lý giữa Master (Raspberry Pi) và Motor Driver (ESP32).
 
